@@ -1,0 +1,1 @@
+Constructor form: .//p[contains(text(), 'Конструктор')], Current URL: https://stellarburgers.nomoreparties.site/
